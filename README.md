@@ -1,5 +1,8 @@
 # X-Ray Image Diagnosis with ResNet Transfer Learning
 
+![image](https://github.com/shantanufuke/Xray-diagnosis-resnet-transfer-learning/assets/104629474/8f3ea6be-0595-4b30-a884-05d0dd32afbf)
+
+
 ## Overview
 This project focuses on diagnosing medical conditions from chest X-ray images using deep learning techniques, specifically leveraging transfer learning with ResNet pre-trained on ImageNet. The goal is to classify X-ray images into two categories based on medical diagnoses.
 
